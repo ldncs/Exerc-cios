@@ -31,4 +31,4 @@ O objetivo deste repositório é consolidar os conhecimentos adquiridos durante 
 
 Caso queira entrar em contato, me envie uma mensagem no meu LinkedIn! 
  ```bash
-   git clone  https://www.linkedin.com/in/lucas-dc-santos/
+    https://www.linkedin.com/in/lucas-dc-santos/
